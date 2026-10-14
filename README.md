@@ -56,7 +56,7 @@
 
 <ul>
 <li>Java Programming</li>
-<li>Data Structures & Algorithms</li>
+<li>python programming language </li>
 <li>DBMS</li>
 <li>Frontend Development</li>
 <li>Git & GitHub</li>
