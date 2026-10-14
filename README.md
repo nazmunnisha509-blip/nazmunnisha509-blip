@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nazmunnisha</h1>
 
-<h3 align="center">BCA 2nd Year Student | Java Learner | Future Web Developer 🚀</h3>
+<h3 align="center">BCA 3rd Year Student | python programming language / Java language🚀</h3>
 
 <p align="center">
 <p align="center">
@@ -19,7 +19,8 @@
 <h2>👩‍💻 About Me</h2>
 
 <ul>
-<li>🔭 Currently working on <b>Java Mini Projects</b></li>
+<li>🔭 Currently working on <b>Java  Projects</b></li>
+  <li>🔭 Currently working on <b>python Mini Projects</b></li>
 <li>🌱 Learning <b>Java, DBMS, HTML, CSS, JavaScript & Git</b></li>
 <li>👯 Looking to collaborate on <b>Web Development Projects</b></li>
 <li>🤝 Looking for help with <b>Java DSA & Backend Development</b></li>
@@ -55,6 +56,7 @@
 <h2>📚 Currently Learning</h2>
 
 <ul>
+  <li>python Programming</li>
 <li>Java Programming</li>
 <li>python programming language </li>
 <li>DBMS</li>
